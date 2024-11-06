@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left"> 
     <a target="_blank" href="https://www.linkedin.com/in/kaisar-affan-bb8a90293/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=0077B5"></a>
-  <a target="_blank" href="[https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet](https://www.instagram.com/lunna.ownn/)"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
+  <a target="_blank" href="https://www.instagram.com/lunna.ownn/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 
 </div>
 

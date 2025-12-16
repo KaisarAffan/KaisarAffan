@@ -37,7 +37,6 @@
 <br>
 <div align="center">
     <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=KaisarAffan&&theme=tokyonight" alt="muhammadammarfaris"/>
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=KaisarAffan&show_icons=true&rank_icon=github&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
   
   <br/>
   
